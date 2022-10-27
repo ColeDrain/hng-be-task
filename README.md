@@ -1,4 +1,4 @@
-# Deploy a minimal example of a fastAPI API to AWS EC2 using Nginx
+# Task: Deploy a minimal example of a fastAPI API to AWS EC2 using Nginx
 
 ## How to run
 `pip install -r requirements.txt`
